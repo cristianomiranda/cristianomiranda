@@ -1,4 +1,4 @@
-### Olá! Sou Cristiano Miranda 👋
+Cristiano Miranda
 
 📊 Business Intelligence
 📉 Sales Lab
